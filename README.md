@@ -11,17 +11,17 @@ e) a team captain is also a player, <br />
 f) a game is played between two teams (referred to as host_team and guest_team) and has a date (such as May 11th, 1999) and a score (such as 4 to 2). <br />
 Construct a clean and concise ER diagram for the NHL database using the Chen notation as in your textbook. List your assumptions and clearly indicate the cardinality mappings as well as any role indicators in your ER diagram.
 
-![nhl](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/10b0deff-c1ca-4276-b22a-b0790d8a2682)
+![nhl](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/b9761577-6755-4616-867a-785035c982b4)
 
 # Problem statement-2
 Construct an E-R diagram for a car-insurance company whose customers own one or more cars each. Each car has associated with it zero to any number of recorded accidents
 
-![car](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/d8e67916-4f1d-4df4-966e-fa42464ffc56)
+![car](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/eb892ea4-56e4-4319-bb64-d9d851f6684a)
 
 # Problem statement-3
 Construct an E-R diagram for a hospital with a set of patients and a set of medical doctors. Associate with each patient a log of the various tests and examinations conducted.
 
-![hospital](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/7da38950-01b1-4be6-88e4-9a0d566a2f25)
+![hospital](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/e7db593d-1e89-47c4-837d-c67e9d6df16b)
 
 # Problem statement-4
 A university registrar’s office maintains data about the following entities: 
@@ -31,4 +31,5 @@ A university registrar’s office maintains data about the following entities:
 (d) instructors, including identification number, name, department, and title. <br />
 Further, the enrollment of students in courses and grades awarded to students in each course they are enrolled for must be appropriately modeled. Construct an E-R diagram forthe registrar’s office. Document all assumptions that you make about the mapping constraints.
 
-![university](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/af413d71-eea3-4d2e-89a8-a5c9e708514d)
+
+![university](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/2287b4f2-4073-4170-954f-e80a3a7eb546)
