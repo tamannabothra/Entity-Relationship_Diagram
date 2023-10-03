@@ -31,5 +31,4 @@ A university registrar’s office maintains data about the following entities:
 (d) instructors, including identification number, name, department, and title. <br />
 Further, the enrollment of students in courses and grades awarded to students in each course they are enrolled for must be appropriately modeled. Construct an E-R diagram forthe registrar’s office. Document all assumptions that you make about the mapping constraints.
 
-
-![university](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/2287b4f2-4073-4170-954f-e80a3a7eb546)
+![university](https://github.com/tamannabothra/Entity-Relationship_Diagram/assets/89736338/5b432375-3b9c-46ab-9767-2f68ac4f0b0d)
